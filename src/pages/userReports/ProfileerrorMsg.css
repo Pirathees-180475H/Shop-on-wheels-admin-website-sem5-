@@ -1,0 +1,40 @@
+
+.Profile-error-info{
+    position: absolute;
+    top:50px;
+    width: 350px;
+    right: 100px;
+    top:200px;
+    padding: 20px;
+    background-color: rgba(0, 0,0,0.6);
+    border-radius: 10px;
+    font-size: 14px;
+    color: aliceblue;
+}
+.Profile-error-message{
+    color: rgb(238, 2, 22);
+}
+
+.closeIcon{
+    font-size:2rem;
+    color: rgb(202, 31, 60);
+}
+
+.printIcon{
+    font-size:2rem;
+}
+
+.arrow{
+    font-size:1.7rem;
+    color: rgb(31, 42, 202);
+    margin-left: 5px;
+}
+
+.DetailBox{
+    margin: 20px;
+}
+
+.chartHeader{
+    text-align: center;
+    margin-top: 0;
+}

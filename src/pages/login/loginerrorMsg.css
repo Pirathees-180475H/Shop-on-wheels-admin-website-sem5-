@@ -1,0 +1,19 @@
+.error-info{
+    position: absolute;
+    top:50px;
+    width: 350px;
+    right: 5px;
+    top:10px;
+    padding: 20px;
+    background-color: rgba(0, 0,0,0.6);
+    border-radius: 10px;
+    font-size: 14px;
+    color: aliceblue;
+}
+.error-message{
+    color: rgb(238, 2, 22);
+}
+
+.success-message{
+    color:rgb(50,205,50)
+}

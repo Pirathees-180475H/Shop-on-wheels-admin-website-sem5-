@@ -1,0 +1,76 @@
+.map{
+    width: 100vw;
+    height: 80vh;
+    margin-bottom: 90px;
+    position: relative;
+}
+
+.location-icon{
+    font-size:2rem;
+    color: rgb(28, 28, 36);
+}
+
+.location-icon-customer{
+    font-size:2rem;
+    color: rgb(202, 31, 60);
+}
+
+.location-icon-close{
+    font-size:2rem;
+    color: rgb(202, 31, 60);
+}
+
+
+.location-info{
+    position: absolute;
+    top:50px;
+    width: 350px;
+    right: 300px;
+   
+    padding: 20px;
+    background-color: rgba(0, 0,0,0.6);
+    border-radius: 10px;
+    font-size: 14px;
+    color: aliceblue;
+}
+
+
+
+.location-info ul{
+    list-style-type: none;
+    padding: 0
+}
+
+.location-info li{
+    padding: 5px 0;
+}
+
+.DeliveryText{
+    color: rgb(199, 240, 15);
+}
+
+
+.SearchError{
+    position: absolute;
+    top:50px;
+    width: 350px;
+    right: 300px;
+    padding: 20px;
+    background-color: rgba(238, 12, 12, 0.6);
+    border-radius: 10px;
+    font-size: 14px;
+    color: aliceblue;
+}
+.searchError-close{
+    font-size:2rem;
+    color: rgb(0, 0, 0);
+}
+
+.search{
+    margin-top: 10px;
+}
+
+.filter{
+    margin-left: 15px;
+    width: 125px;
+}
